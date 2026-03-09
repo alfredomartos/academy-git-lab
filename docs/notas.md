@@ -1,1 +1,5 @@
 "# Notas do laboratório" 
+"## Git Flow" 
+"1. git switch -c feature/..." 
+"2. git add && git commit" 
+"3. git push && Pull Request" 
